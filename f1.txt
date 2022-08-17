@@ -5,3 +5,4 @@ lin2 q10
 line3 q10
 line4 q14
 line5 q14
+line6 q17
